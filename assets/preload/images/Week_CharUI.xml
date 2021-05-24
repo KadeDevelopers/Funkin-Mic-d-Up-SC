@@ -118,4 +118,10 @@
 	<SubTexture name="spooky0013" x="768" y="3036" width="357" height="484" frameX="-79" frameY="-61" frameWidth="492" frameHeight="549"/>
 	<SubTexture name="spooky0014" x="1128" y="3036" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
 	<SubTexture name="spooky0015" x="1128" y="3036" width="354" height="494" frameX="-78" frameY="-52" frameWidth="492" frameHeight="549"/>
+	<SubTexture name="tankman0000" x="2937" y="3033" width="425" height="552"/>
+	<SubTexture name="tankman0001" x="3603" y="3021" width="425" height="558"/>
+	<SubTexture name="tankman0002" x="4264" y="3021" width="425" height="559"/>
+	<SubTexture name="tankman0003" x="4918" y="3021" width="425" height="558"/>
+	<SubTexture name="tankman0004" x="5618" y="3036" width="425" height="544"/>
+	<SubTexture name="tankman0005" x="6290" y="3040" width="425" height="544"/>
 </TextureAtlas>

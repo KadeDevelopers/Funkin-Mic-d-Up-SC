@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="skittles_assets.png">
+	<!-- Created with Adobe Animate version 21.0.3.38773 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="skittles Idle0000" x="5" y="5" width="346" height="574" frameX="-1" frameY="-9" frameWidth="348" frameHeight="583"/>
+	<SubTexture name="skittles Idle0001" x="5" y="5" width="346" height="574" frameX="-1" frameY="-9" frameWidth="348" frameHeight="583"/>
+	<SubTexture name="skittles Idle0002" x="361" y="5" width="345" height="577" frameX="-2" frameY="-6" frameWidth="348" frameHeight="583"/>
+	<SubTexture name="skittles Idle0003" x="361" y="5" width="345" height="577" frameX="-2" frameY="-6" frameWidth="348" frameHeight="583"/>
+	<SubTexture name="skittles Idle0004" x="716" y="5" width="348" height="583"/>
+	<SubTexture name="skittles Idle0005" x="716" y="5" width="348" height="583"/>
+	<SubTexture name="skittles Idle0006" x="716" y="5" width="348" height="583"/>
+	<SubTexture name="skittles Idle0007" x="716" y="5" width="348" height="583"/>
+	<SubTexture name="skittles Idle0008" x="716" y="5" width="348" height="583"/>
+	<SubTexture name="skittles Idle0009" x="716" y="5" width="348" height="583"/>
+	<SubTexture name="skittles Idle0010" x="716" y="5" width="348" height="583"/>
+	<SubTexture name="skittles Idle0011" x="716" y="5" width="348" height="583"/>
+	<SubTexture name="skittles Idle0012" x="716" y="5" width="348" height="583"/>
+	<SubTexture name="skittles Idle0013" x="716" y="5" width="348" height="583"/>
+	<SubTexture name="skittles Idle0014" x="716" y="5" width="348" height="583"/>
+	<SubTexture name="skittles Idle0015" x="716" y="5" width="348" height="583"/>
+	<SubTexture name="skittles Idle0016" x="716" y="5" width="348" height="583"/>
+	<SubTexture name="skittles Idle0017" x="716" y="5" width="348" height="583"/>
+	<SubTexture name="skittles Idle0018" x="716" y="5" width="348" height="583"/>
+	<SubTexture name="skittles Idle0019" x="716" y="5" width="348" height="583"/>
+	<SubTexture name="skittles Down0000" x="1074" y="5" width="464" height="424" frameX="-4" frameY="-4" frameWidth="468" frameHeight="428"/>
+	<SubTexture name="skittles Down0001" x="1074" y="5" width="464" height="424" frameX="-4" frameY="-4" frameWidth="468" frameHeight="428"/>
+	<SubTexture name="skittles Down0002" x="1548" y="5" width="467" height="428" frameX="0" frameY="0" frameWidth="468" frameHeight="428"/>
+	<SubTexture name="skittles Down0003" x="1548" y="5" width="467" height="428" frameX="0" frameY="0" frameWidth="468" frameHeight="428"/>
+	<SubTexture name="skittles Down0004" x="1548" y="5" width="467" height="428" frameX="0" frameY="0" frameWidth="468" frameHeight="428"/>
+	<SubTexture name="skittles Down0005" x="1548" y="5" width="467" height="428" frameX="0" frameY="0" frameWidth="468" frameHeight="428"/>
+	<SubTexture name="skittles Down0006" x="1548" y="5" width="467" height="428" frameX="0" frameY="0" frameWidth="468" frameHeight="428"/>
+	<SubTexture name="skittles Down0007" x="1548" y="5" width="467" height="428" frameX="0" frameY="0" frameWidth="468" frameHeight="428"/>
+	<SubTexture name="skittles Down0008" x="1548" y="5" width="467" height="428" frameX="0" frameY="0" frameWidth="468" frameHeight="428"/>
+	<SubTexture name="skittles Down0009" x="1548" y="5" width="467" height="428" frameX="0" frameY="0" frameWidth="468" frameHeight="428"/>
+	<SubTexture name="skittles Down0010" x="1548" y="5" width="467" height="428" frameX="0" frameY="0" frameWidth="468" frameHeight="428"/>
+	<SubTexture name="skittles Down0011" x="1548" y="5" width="467" height="428" frameX="0" frameY="0" frameWidth="468" frameHeight="428"/>
+	<SubTexture name="skittles Down0012" x="1548" y="5" width="467" height="428" frameX="0" frameY="0" frameWidth="468" frameHeight="428"/>
+	<SubTexture name="skittles Down0013" x="1548" y="5" width="467" height="428" frameX="0" frameY="0" frameWidth="468" frameHeight="428"/>
+	<SubTexture name="skittles Down0014" x="1548" y="5" width="467" height="428" frameX="0" frameY="0" frameWidth="468" frameHeight="428"/>
+	<SubTexture name="skittles Down0015" x="1548" y="5" width="467" height="428" frameX="0" frameY="0" frameWidth="468" frameHeight="428"/>
+	<SubTexture name="skittles Down0016" x="1548" y="5" width="467" height="428" frameX="0" frameY="0" frameWidth="468" frameHeight="428"/>
+	<SubTexture name="skittles Down0017" x="1548" y="5" width="467" height="428" frameX="0" frameY="0" frameWidth="468" frameHeight="428"/>
+	<SubTexture name="skittles Down0018" x="1548" y="5" width="467" height="428" frameX="0" frameY="0" frameWidth="468" frameHeight="428"/>
+	<SubTexture name="skittles Down0019" x="1548" y="5" width="467" height="428" frameX="0" frameY="0" frameWidth="468" frameHeight="428"/>
+	<SubTexture name="skittles Down0020" x="1548" y="5" width="467" height="428" frameX="0" frameY="0" frameWidth="468" frameHeight="428"/>
+	<SubTexture name="skittles Down0021" x="1548" y="5" width="467" height="428" frameX="0" frameY="0" frameWidth="468" frameHeight="428"/>
+	<SubTexture name="skittles Down0022" x="1548" y="5" width="467" height="428" frameX="0" frameY="0" frameWidth="468" frameHeight="428"/>
+	<SubTexture name="skittles Down0023" x="1548" y="5" width="467" height="428" frameX="0" frameY="0" frameWidth="468" frameHeight="428"/>
+	<SubTexture name="skittles Left0000" x="2025" y="5" width="412" height="565" frameX="0" frameY="-2" frameWidth="413" frameHeight="567"/>
+	<SubTexture name="skittles Left0001" x="2025" y="5" width="412" height="565" frameX="0" frameY="-2" frameWidth="413" frameHeight="567"/>
+	<SubTexture name="skittles Left0002" x="2447" y="5" width="407" height="567" frameX="-6" frameY="0" frameWidth="413" frameHeight="567"/>
+	<SubTexture name="skittles Left0003" x="2447" y="5" width="407" height="567" frameX="-6" frameY="0" frameWidth="413" frameHeight="567"/>
+	<SubTexture name="skittles Left0004" x="2447" y="5" width="407" height="567" frameX="-6" frameY="0" frameWidth="413" frameHeight="567"/>
+	<SubTexture name="skittles Left0005" x="2447" y="5" width="407" height="567" frameX="-6" frameY="0" frameWidth="413" frameHeight="567"/>
+	<SubTexture name="skittles Left0006" x="2447" y="5" width="407" height="567" frameX="-6" frameY="0" frameWidth="413" frameHeight="567"/>
+	<SubTexture name="skittles Left0007" x="2447" y="5" width="407" height="567" frameX="-6" frameY="0" frameWidth="413" frameHeight="567"/>
+	<SubTexture name="skittles Left0008" x="2447" y="5" width="407" height="567" frameX="-6" frameY="0" frameWidth="413" frameHeight="567"/>
+	<SubTexture name="skittles Left0009" x="2447" y="5" width="407" height="567" frameX="-6" frameY="0" frameWidth="413" frameHeight="567"/>
+	<SubTexture name="skittles Left0010" x="2447" y="5" width="407" height="567" frameX="-6" frameY="0" frameWidth="413" frameHeight="567"/>
+	<SubTexture name="skittles Left0011" x="2447" y="5" width="407" height="567" frameX="-6" frameY="0" frameWidth="413" frameHeight="567"/>
+	<SubTexture name="skittles Left0012" x="2447" y="5" width="407" height="567" frameX="-6" frameY="0" frameWidth="413" frameHeight="567"/>
+	<SubTexture name="skittles Left0013" x="2447" y="5" width="407" height="567" frameX="-6" frameY="0" frameWidth="413" frameHeight="567"/>
+	<SubTexture name="skittles Left0014" x="2447" y="5" width="407" height="567" frameX="-6" frameY="0" frameWidth="413" frameHeight="567"/>
+	<SubTexture name="skittles Left0015" x="2447" y="5" width="407" height="567" frameX="-6" frameY="0" frameWidth="413" frameHeight="567"/>
+	<SubTexture name="skittles Left0016" x="2447" y="5" width="407" height="567" frameX="-6" frameY="0" frameWidth="413" frameHeight="567"/>
+	<SubTexture name="skittles Left0017" x="2447" y="5" width="407" height="567" frameX="-6" frameY="0" frameWidth="413" frameHeight="567"/>
+	<SubTexture name="skittles Left0018" x="2447" y="5" width="407" height="567" frameX="-6" frameY="0" frameWidth="413" frameHeight="567"/>
+	<SubTexture name="skittles Left0019" x="2447" y="5" width="407" height="567" frameX="-6" frameY="0" frameWidth="413" frameHeight="567"/>
+	<SubTexture name="skittles Left0020" x="2447" y="5" width="407" height="567" frameX="-6" frameY="0" frameWidth="413" frameHeight="567"/>
+	<SubTexture name="skittles Left0021" x="2447" y="5" width="407" height="567" frameX="-6" frameY="0" frameWidth="413" frameHeight="567"/>
+	<SubTexture name="skittles Left0022" x="2447" y="5" width="407" height="567" frameX="-6" frameY="0" frameWidth="413" frameHeight="567"/>
+	<SubTexture name="skittles Left0023" x="2447" y="5" width="407" height="567" frameX="-6" frameY="0" frameWidth="413" frameHeight="567"/>
+	<SubTexture name="skittles Right0000" x="2864" y="5" width="398" height="547" frameX="0" frameY="-5" frameWidth="398" frameHeight="552"/>
+	<SubTexture name="skittles Right0001" x="2864" y="5" width="398" height="547" frameX="0" frameY="-5" frameWidth="398" frameHeight="552"/>
+	<SubTexture name="skittles Right0002" x="3272" y="5" width="393" height="552" frameX="0" frameY="0" frameWidth="398" frameHeight="552"/>
+	<SubTexture name="skittles Right0003" x="3272" y="5" width="393" height="552" frameX="0" frameY="0" frameWidth="398" frameHeight="552"/>
+	<SubTexture name="skittles Right0004" x="3272" y="5" width="393" height="552" frameX="0" frameY="0" frameWidth="398" frameHeight="552"/>
+	<SubTexture name="skittles Right0005" x="3272" y="5" width="393" height="552" frameX="0" frameY="0" frameWidth="398" frameHeight="552"/>
+	<SubTexture name="skittles Right0006" x="3272" y="5" width="393" height="552" frameX="0" frameY="0" frameWidth="398" frameHeight="552"/>
+	<SubTexture name="skittles Right0007" x="3272" y="5" width="393" height="552" frameX="0" frameY="0" frameWidth="398" frameHeight="552"/>
+	<SubTexture name="skittles Right0008" x="3272" y="5" width="393" height="552" frameX="0" frameY="0" frameWidth="398" frameHeight="552"/>
+	<SubTexture name="skittles Right0009" x="3272" y="5" width="393" height="552" frameX="0" frameY="0" frameWidth="398" frameHeight="552"/>
+	<SubTexture name="skittles Right0010" x="3272" y="5" width="393" height="552" frameX="0" frameY="0" frameWidth="398" frameHeight="552"/>
+	<SubTexture name="skittles Right0011" x="3272" y="5" width="393" height="552" frameX="0" frameY="0" frameWidth="398" frameHeight="552"/>
+	<SubTexture name="skittles Right0012" x="3272" y="5" width="393" height="552" frameX="0" frameY="0" frameWidth="398" frameHeight="552"/>
+	<SubTexture name="skittles Right0013" x="3272" y="5" width="393" height="552" frameX="0" frameY="0" frameWidth="398" frameHeight="552"/>
+	<SubTexture name="skittles Right0014" x="3272" y="5" width="393" height="552" frameX="0" frameY="0" frameWidth="398" frameHeight="552"/>
+	<SubTexture name="skittles Right0015" x="3272" y="5" width="393" height="552" frameX="0" frameY="0" frameWidth="398" frameHeight="552"/>
+	<SubTexture name="skittles Right0016" x="3272" y="5" width="393" height="552" frameX="0" frameY="0" frameWidth="398" frameHeight="552"/>
+	<SubTexture name="skittles Right0017" x="3272" y="5" width="393" height="552" frameX="0" frameY="0" frameWidth="398" frameHeight="552"/>
+	<SubTexture name="skittles Right0018" x="3272" y="5" width="393" height="552" frameX="0" frameY="0" frameWidth="398" frameHeight="552"/>
+	<SubTexture name="skittles Right0019" x="3272" y="5" width="393" height="552" frameX="0" frameY="0" frameWidth="398" frameHeight="552"/>
+	<SubTexture name="skittles Right0020" x="3272" y="5" width="393" height="552" frameX="0" frameY="0" frameWidth="398" frameHeight="552"/>
+	<SubTexture name="skittles Right0021" x="3272" y="5" width="393" height="552" frameX="0" frameY="0" frameWidth="398" frameHeight="552"/>
+	<SubTexture name="skittles Right0022" x="3272" y="5" width="393" height="552" frameX="0" frameY="0" frameWidth="398" frameHeight="552"/>
+	<SubTexture name="skittles Right0023" x="3272" y="5" width="393" height="552" frameX="0" frameY="0" frameWidth="398" frameHeight="552"/>
+	<SubTexture name="skittles Up0000" x="5" y="598" width="420" height="606"/>
+	<SubTexture name="skittles Up0001" x="5" y="598" width="420" height="606"/>
+	<SubTexture name="skittles Up0002" x="435" y="598" width="414" height="603" frameX="-2" frameY="-3" frameWidth="420" frameHeight="606"/>
+	<SubTexture name="skittles Up0003" x="435" y="598" width="414" height="603" frameX="-2" frameY="-3" frameWidth="420" frameHeight="606"/>
+	<SubTexture name="skittles Up0004" x="435" y="598" width="414" height="603" frameX="-2" frameY="-3" frameWidth="420" frameHeight="606"/>
+	<SubTexture name="skittles Up0005" x="435" y="598" width="414" height="603" frameX="-2" frameY="-3" frameWidth="420" frameHeight="606"/>
+	<SubTexture name="skittles Up0006" x="435" y="598" width="414" height="603" frameX="-2" frameY="-3" frameWidth="420" frameHeight="606"/>
+	<SubTexture name="skittles Up0007" x="435" y="598" width="414" height="603" frameX="-2" frameY="-3" frameWidth="420" frameHeight="606"/>
+	<SubTexture name="skittles Up0008" x="435" y="598" width="414" height="603" frameX="-2" frameY="-3" frameWidth="420" frameHeight="606"/>
+	<SubTexture name="skittles Up0009" x="435" y="598" width="414" height="603" frameX="-2" frameY="-3" frameWidth="420" frameHeight="606"/>
+	<SubTexture name="skittles Up0010" x="435" y="598" width="414" height="603" frameX="-2" frameY="-3" frameWidth="420" frameHeight="606"/>
+	<SubTexture name="skittles Up0011" x="435" y="598" width="414" height="603" frameX="-2" frameY="-3" frameWidth="420" frameHeight="606"/>
+	<SubTexture name="skittles Up0012" x="435" y="598" width="414" height="603" frameX="-2" frameY="-3" frameWidth="420" frameHeight="606"/>
+	<SubTexture name="skittles Up0013" x="435" y="598" width="414" height="603" frameX="-2" frameY="-3" frameWidth="420" frameHeight="606"/>
+	<SubTexture name="skittles Up0014" x="435" y="598" width="414" height="603" frameX="-2" frameY="-3" frameWidth="420" frameHeight="606"/>
+	<SubTexture name="skittles Up0015" x="435" y="598" width="414" height="603" frameX="-2" frameY="-3" frameWidth="420" frameHeight="606"/>
+	<SubTexture name="skittles Up0016" x="435" y="598" width="414" height="603" frameX="-2" frameY="-3" frameWidth="420" frameHeight="606"/>
+	<SubTexture name="skittles Up0017" x="435" y="598" width="414" height="603" frameX="-2" frameY="-3" frameWidth="420" frameHeight="606"/>
+	<SubTexture name="skittles Up0018" x="435" y="598" width="414" height="603" frameX="-2" frameY="-3" frameWidth="420" frameHeight="606"/>
+	<SubTexture name="skittles Up0019" x="435" y="598" width="414" height="603" frameX="-2" frameY="-3" frameWidth="420" frameHeight="606"/>
+	<SubTexture name="skittles Up0020" x="435" y="598" width="414" height="603" frameX="-2" frameY="-3" frameWidth="420" frameHeight="606"/>
+	<SubTexture name="skittles Up0021" x="435" y="598" width="414" height="603" frameX="-2" frameY="-3" frameWidth="420" frameHeight="606"/>
+	<SubTexture name="skittles Up0022" x="435" y="598" width="414" height="603" frameX="-2" frameY="-3" frameWidth="420" frameHeight="606"/>
+	<SubTexture name="skittles Up0023" x="435" y="598" width="414" height="603" frameX="-2" frameY="-3" frameWidth="420" frameHeight="606"/>
+</TextureAtlas>

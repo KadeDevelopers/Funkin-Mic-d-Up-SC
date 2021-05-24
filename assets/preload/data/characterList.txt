@@ -17,3 +17,6 @@ gf-pixel
 senpai
 senpai-angry
 spirit
+tankman
+skittles
+steve
